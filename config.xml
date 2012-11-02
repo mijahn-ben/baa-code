@@ -16,6 +16,7 @@
     <author href="http://mutantlabs.com" email="mijahn@mutantlabs.com">
         Mijahn Masters
     </author>
+    <icon src="sheep.png" />
 	<gap:plugin name="Baa-code" /> <!-- latest release -->
 </widget>
 
