@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+        id        = "it.stamp.staging"
+        versionCode="10" 
+        version   = "1.0.0">
+
+    <!-- versionCode is optional and Android only -->
+
+    <name>Stamp.it App</name>
+
+    <description>
+        Phone Scan Demo for Stamp.it
+    </description>
+
+    <author href="https://staging.stamp.it" email="mijahn@mutantlabs.com">
+        Mijahn Masters
+    </author>
+	<gap:plugin name="BarcodeScanner" /> <!-- latest release -->
+</widget>
+
