@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" ?>
     <widget xmlns = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "it.stamp.staging"
+        id        = "com.mutant.baa-code"
         versionCode="10" 
         version   = "1.0.0">
 
     <!-- versionCode is optional and Android only -->
 
-    <name>Stamp.it App</name>
+    <name>SBaa-Code</name>
 
     <description>
-        Phone Scan Demo for Stamp.it
+        Phone Scan Demo app
     </description>
 
-    <author href="https://staging.stamp.it" email="mijahn@mutantlabs.com">
+    <author href="http://mutantlabs.com" email="mijahn@mutantlabs.com">
         Mijahn Masters
     </author>
-	<gap:plugin name="BarcodeScanner" /> <!-- latest release -->
+	<gap:plugin name="Baa-code" /> <!-- latest release -->
 </widget>
 
