@@ -17,6 +17,6 @@
         Mijahn Masters
     </author>
     <icon src="sheep.png" />
-	<gap:plugin name="Baa-code" /> <!-- latest release -->
+	<gap:plugin name="BarcodeScanner" /> <!-- latest release -->
 </widget>
 
